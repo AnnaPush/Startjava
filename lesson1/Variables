@@ -1,4 +1,4 @@
-public class Variables {
+public class Variables1 {
 
 	public static void main(String[] args) {
 		int coreNumber = 2;
@@ -10,14 +10,14 @@ public class Variables {
 		char modelSign = 'u';
 		boolean laptop = true;
 	 
-	System.out.println(operMemory);
-	System.out.println(systemType);
-	System.out.println(coreNumber);
-	System.out.println(price);
-	System.out.println(coreClock);
-	System.out.println(weight);
-	System.out.println(modelSign);
-	System.out.println(laptop);
+			System.out.println(operMemory);
+			System.out.println(systemType);
+			System.out.println(coreNumber);
+			System.out.println(price);
+			System.out.println(coreClock);
+			System.out.println(weight);
+			System.out.println(modelSign);
+			System.out.println(laptop);
 			
 	}
 } 
