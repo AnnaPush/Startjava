@@ -18,5 +18,5 @@ public class Variables {
 		System.out.println(weight);
 		System.out.println(modelSign);
 		System.out.println(laptop);
-		}
+	}
 } 
