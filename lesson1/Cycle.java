@@ -12,10 +12,10 @@ public class Cycle {
 		}
 
 		int m = 10;
-		int result = 0;
+		int sumOdd = 0;
 			do {
 				if (m % 2 != 0) {
-				result = result + m;
+					sumOdd += m;
 				}
 				m++;
 			} while (m <= 20);
